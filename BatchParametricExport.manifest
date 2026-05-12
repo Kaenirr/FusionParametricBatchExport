@@ -1,0 +1,13 @@
+{
+	"autodeskProduct": "Fusion",
+	"type": "addin",
+	"author": "Kaenirr",
+	"description": {
+		"": "Batch export bodies and components across parameter combinations."
+	},
+	"version": "0.1.1",
+	"supportedOS": "windows|mac",
+	"editEnabled": true,
+	"runOnStartup": true,
+	"iconFilename": "resources/32x32.png"
+}
